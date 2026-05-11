@@ -11,5 +11,4 @@ Status: Active
 - Set different schedules for each project
 - Every time data backup it would be save the zip and excel on our minio also hit the sharepoint api for the main drive
 - Makes each version backup by year for example `2026-active-leads` which fill sheet for each week or other period
-
-*
+- It fully develop on APS backend using laravel 5.8
