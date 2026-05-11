@@ -1,6 +1,8 @@
 ---
 type: Type
-_order: 2
+color: blue
+_icon: stack
+_order: 4
 ---
 
 # Type
