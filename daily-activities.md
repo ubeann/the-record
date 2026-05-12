@@ -12,7 +12,7 @@ product: APS
 
 ### 2. Payment Plan
 
-- [ ] Prepare deployment plan for Payment Plan
+- [x] Prepare deployment plan for Payment Plan
   - [ ] Coordinate with Mas Rega to prepare the production query
 
 ### 3. Data Backup
@@ -21,7 +21,7 @@ product: APS
 
 ### 4. SSL Certificate
 
-- [ ] Generate a new SSL certificate for Guestbook
+- [x] Generate a new SSL certificate for Guestbook
 
 ## Deployment Plan - 12 May
 
