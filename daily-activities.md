@@ -6,14 +6,37 @@ product: APS
 ---
 # Daily Activities
 
-- [ ] Validate API Postman for Integration 3Dolphins
-- [ ] Planning Deployment for Payment Plan
-  - [ ] Setting query on production by asking mas rega
-- [ ] Planning Data Backup Managament
-- [ ] Generate new SSL for Guestbook
+### 1. Integration & API
 
-Deployment 12 May
+- [ ] Validate Postman API for 3Dolphins integration
 
-- [ ] Admin (hotifx npwp, fix publish flagging payment plan)
-- [ ] Agent (fix publish flagging payment plan)
-- [ ] REST API (handle issue reservation cancel, adjustment payment plan, adjustment, unit availability)
+### 2. Payment Plan
+
+- [ ] Prepare deployment plan for Payment Plan
+  - [ ] Coordinate with Mas Rega to prepare the production query
+
+### 3. Data Backup
+
+- [ ] Prepare data backup management plan
+
+### 4. SSL Certificate
+
+- [ ] Generate a new SSL certificate for Guestbook
+
+## Deployment Plan - 12 May
+
+### Admin
+
+- [ ] Apply NPWP hotfix
+- [ ] Fix Payment Plan publish flagging
+
+### Agent
+
+- [ ] Fix Payment Plan publish flagging
+
+### REST API
+
+- [ ] Handle reservation cancellation issue
+- [ ] Adjust Payment Plan
+- [ ] Apply adjustment updates
+- [ ] Update unit availability
