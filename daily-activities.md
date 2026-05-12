@@ -37,7 +37,7 @@ product: APS
 
 ### REST API
 
-- [ ] Handle reservation cancellation issue
-- [ ] Adjust Payment Plan
-- [ ] Apply adjustment updates
-- [ ] Update unit availability
+- [x] Handle reservation cancellation issue
+- [x] Adjust Payment Plan
+- [x] Apply adjustment updates
+- [x] Update unit availability
