@@ -13,3 +13,7 @@ product: APS
 - [ ] Generate new SSL for Guestbook
 
 Deployment 12 May
+
+- [ ] Admin (hotifx npwp, fix publish flagging payment plan)
+- [ ] Agent (fix publish flagging payment plan)
+- [ ] REST API (
