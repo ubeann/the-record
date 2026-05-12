@@ -11,3 +11,5 @@ product: APS
   - [ ] Setting query on production by asking mas rega
 - [ ] Planning Data Backup Managament
 - [ ] Generate new SSL for Guestbook
+
+Deployment 12 May
