@@ -27,9 +27,9 @@ product: APS
 
 ### Admin
 
-- [ ] Apply NPWP hotfix
-- [ ] Fix Payment Plan publish flagging
-- [ ] Update unit availability
+- [x] Apply NPWP hotfix
+- [x] Fix Payment Plan publish flagging
+- [x] Update unit availability
 
 ### Agent
 
