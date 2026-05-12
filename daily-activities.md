@@ -29,6 +29,7 @@ product: APS
 
 - [ ] Apply NPWP hotfix
 - [ ] Fix Payment Plan publish flagging
+- [ ] Update unit availability
 
 ### Agent
 
