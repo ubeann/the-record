@@ -1,0 +1,10 @@
+name: Astra Property
+icon: null
+color: null
+order: 0
+sort: null
+filters:
+  all:
+  - field: product
+    op: equals
+    value: APS
