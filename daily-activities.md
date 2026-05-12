@@ -16,4 +16,4 @@ Deployment 12 May
 
 - [ ] Admin (hotifx npwp, fix publish flagging payment plan)
 - [ ] Agent (fix publish flagging payment plan)
-- [ ] REST API (
+- [ ] REST API (handle issue reservation cancel, adjustment payment plan, adjustment, unit availability)
