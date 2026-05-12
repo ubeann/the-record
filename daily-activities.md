@@ -13,7 +13,7 @@ product: APS
 ### 2. Payment Plan
 
 - [x] Prepare deployment plan for Payment Plan
-  - [ ] Coordinate with Mas Rega to prepare the production query
+  - [x] Coordinate with Mas Rega to prepare the production query
 
 ### 3. Data Backup
 
