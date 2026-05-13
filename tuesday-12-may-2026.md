@@ -42,15 +42,23 @@ Date: 2026-05-12
 
 - [x] Apply NPWP hotfix
 - [x] Fix Payment Plan publish flagging
-- [x] Update unit availability
+- [x] Update unit availability for sales scheme
+- [x] Update Payment Plan adjustment list
+- [x] Adjust portal font icons
 
 ### Agent
 
 - [ ] Fix Payment Plan publish flagging
+
+### Mobile
+
+- [x] Update Payment Plan adjustment list
+- [x] Fix opportunity disqualify issue
 
 ### REST API
 
 - [x] Handle reservation cancellation issue
 - [x] Adjust Payment Plan
 - [x] Apply adjustment updates
-- [x] Update unit availability
+- [x] Update unit availability for sales scheme
+- [x] Update Payment Plan adjustment list
