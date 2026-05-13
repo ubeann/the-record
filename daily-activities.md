@@ -6,6 +6,10 @@ product: APS
 ---
 # Daily Activities
 
+# 12 May 2026
+
+## Activities
+
 ### 1. Integration & API
 
 - [ ] Validate Postman API for 3Dolphins integration
@@ -23,7 +27,7 @@ product: APS
 
 - [x] Generate a new SSL certificate for Guestbook
 
-## Deployment Plan - 12 May
+## Deployment
 
 ### Admin
 
