@@ -1,6 +1,6 @@
 name: Astra Property
-icon: null
-color: null
+icon: city
+color: orange
 order: 0
 sort: null
 filters:

@@ -1,31 +1,40 @@
 ---
-type: Project
-Status: Active
-_icon: anchor
+Status: Done
 product: APS
+type: Activity
+Date: 2026-05-12
 ---
-# Daily Activities
+# Tuesday, 12 May 2026
 
-# 12 May 2026
+## Summary
+
+| Area       | Done | Pending |
+| ---------- | ---- | ------- |
+| Activities | 2    | 2       |
+| Deployment | 8    | 1       |
+
+***
 
 ## Activities
 
-### 1. Integration & API
+### Integration & API
 
 - [ ] Validate Postman API for 3Dolphins integration
 
-### 2. Payment Plan
+### Payment Plan
 
 - [x] Prepare deployment plan for Payment Plan
   - [x] Coordinate with Mas Rega to prepare the production query
 
-### 3. Data Backup
+### Data Backup
 
 - [ ] Prepare data backup management plan
 
-### 4. SSL Certificate
+### SSL Certificate
 
 - [x] Generate a new SSL certificate for Guestbook
+
+***
 
 ## Deployment
 

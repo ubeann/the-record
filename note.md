@@ -2,7 +2,7 @@
 type: Type
 color: gray
 _icon: notebook
-_order: 3
+_order: 4
 ---
 
 # Note

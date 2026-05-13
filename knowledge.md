@@ -1,8 +1,8 @@
 ---
 type: Type
 color: yellow
-_order: 2
 _icon: atom
+_order: 3
 ---
 
 # Knowledge
