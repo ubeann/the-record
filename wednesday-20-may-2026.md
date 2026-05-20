@@ -17,4 +17,5 @@ Date: 2026-05-20
 - [ ] Confirmation about history chat
 - [ ] Handle chat when user send out-of-context, should send api?
   - [ ] What happens when on first message user doesnt answer?
-  *
+  - [ ] Does it same when user timeout 3hours flow?
+  - [ ] As is confirmed thats when user say interested, it would be send as qualified leads
