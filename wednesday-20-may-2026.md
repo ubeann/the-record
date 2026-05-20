@@ -12,4 +12,9 @@ Date: 2026-05-20
 - [ ] Purpose merging dev and preprod server
 - [ ] Improve Searching opportunities on mobile apps
 
--
+3Dholpins
+
+- [ ] Confirmation about history chat
+- [ ] Handle chat when user send out-of-context, should send api?
+  - [ ] What happens when on first message user doesnt answer?
+  *
