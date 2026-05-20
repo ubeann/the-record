@@ -25,3 +25,11 @@ Date: 2026-05-20
   - [ ] Ada reminder engga kalau ga bales, ada due date balesan, etc
 - [x] Confirming about broadcasting flow, do APS hit 3Dholpins API?
   - [ ] ✅ Need portal (outbond marketing) and api (outbound specific)
+
+Selamat siang mas, ini untuk catatan meeting tadi:
+
+- Terkait history chat untuk development awal akan fokus ke last chat
+- Permasalahan untuk handle user yang chat diluar flow yg ditetapkan akan diarahkan dengan fallback message (meski berkali-kali) hingga ujung flow dan hit ke API APS
+- Kemudian kebutuhan broadcasting dari kamu perlu portal untuk outbond pesan marketing dan api untuk specific ke user seperti template data di bawah
+
+Sekiranya ada yang salah atau kurang bisa dikoreksi ya mas
