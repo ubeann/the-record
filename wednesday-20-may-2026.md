@@ -16,7 +16,7 @@ Date: 2026-05-20
 
 - [ ] Confirmation about history chat
   - [ ] To be confirm on Mrs. Tasya
-  - [ ] Priority last cha, but future development would be full chat history does it need more budget for deve
+  - [ ] Priority last cha, but future development would be full chat history does it need more budget for development
 - [x] Handle chat when user send out-of-context, should send api?
   - [x] What happens when on first message user doesnt answer?
   - [x] Does it same when user timeout 3hours flow?
