@@ -19,3 +19,4 @@ Date: 2026-05-20
   - [ ] What happens when on first message user doesnt answer?
   - [ ] Does it same when user timeout 3hours flow?
   - [ ] As is confirmed thats when user say interested, it would be send as qualified leads
+- [ ] Confirming about broadcasting flow, do APS hit 3Dholpins API?
