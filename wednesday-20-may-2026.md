@@ -15,6 +15,7 @@ Date: 2026-05-20
 3Dholpins
 
 - [ ] Confirmation about history chat
+  - [ ] To be confirm on Mrs. Tasya
 - [ ] Handle chat when user send out-of-context, should send api?
   - [ ] What happens when on first message user doesnt answer?
   - [ ] Does it same when user timeout 3hours flow?
