@@ -42,3 +42,5 @@ AGLP Notes
 - [ ] Netprice (contract price) diluar budget
 - [ ] 0.15% for AGLP from Contract Price (New Contract Price on PDF) | Contract price = Price List - Discount
 - [ ] Pricelist is constant and cant change
+
+Jadi untuk case **outbound** ini kan bermulai
