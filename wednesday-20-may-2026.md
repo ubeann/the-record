@@ -33,3 +33,10 @@ Selamat siang mas, ini untuk catatan meeting tadi:
 - Kemudian kebutuhan broadcasting dari kamu perlu portal untuk outbond pesan marketing dan api untuk specific ke user seperti template data di bawah
 
 Sekiranya ada yang salah atau kurang bisa dikoreksi ya mas
+
+AGLP Notes
+
+- [ ] Adjustment on SalesScheme proposal pdf document, so AGLP would be below on special request as unique point
+- [ ] Netprice (contract price) diluar budget
+- [ ] 0.15% for AGLP from Contract Price (New Contract Price on PDF)
+*
