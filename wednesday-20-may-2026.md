@@ -34,6 +34,8 @@ Selamat siang mas, ini untuk catatan meeting tadi:
 
 Sekiranya ada yang salah atau kurang bisa dikoreksi ya mas
 
+Izin menambahkan mas, terkait kebutuhan broadcasting dari sisi kami diperlukan portal untuk outbound pesan marketing, serta API untuk pengiriman pesan spesifik ke user, mengikuti template data terlampir di bawah.
+
 AGLP Notes
 
 - [ ] Adjustment on SalesScheme proposal pdf document, so AGLP would be below on special request as unique point
