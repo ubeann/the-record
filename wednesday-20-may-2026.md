@@ -38,5 +38,5 @@ AGLP Notes
 
 - [ ] Adjustment on SalesScheme proposal pdf document, so AGLP would be below on special request as unique point
 - [ ] Netprice (contract price) diluar budget
-- [ ] 0.15% for AGLP from Contract Price (New Contract Price on PDF)
+- [ ] 0.15% for AGLP from Contract Price (New Contract Price on PDF) | Contract price = Price List - Discount
 *
