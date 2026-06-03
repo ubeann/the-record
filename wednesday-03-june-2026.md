@@ -10,5 +10,6 @@ Date: 2026-06-03
   - [x] Step 2 Revisi
   - [ ] Step 5
 - [ ] Memo Cuti
+  - [x] Approval
 - [ ] Routine Maintenance
 - [x] Renew SSL Guestbook Dev
