@@ -13,3 +13,4 @@ Date: 2026-06-03
   - [x] Approval
 - [ ] Routine Maintenance
 - [x] Renew SSL Guestbook Dev
+- [x] DB Connection switch to LB
