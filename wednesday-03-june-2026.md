@@ -14,5 +14,8 @@ Date: 2026-06-03
 - [ ] Routine Maintenance
 - [x] Renew SSL Guestbook Dev
 - [x] DB Connection switch to LB
-- [ ] 3Dholpins
-  *
+- [x] 3Dholpins
+  - [x] Config adjustment
+  - [x] Create get token logic
+  - [x] Adjust logic when send message to new vendor 3dolphins
+  - [ ] UAT
