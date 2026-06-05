@@ -21,3 +21,4 @@ Date: 2026-06-03
   - [ ] UAT
 - [ ] NOTED ISSUE
   - [ ] Marketing Activities (campaign) issue on autosaved which makes redundant records
+  - [ ] Makesure payment plan its only edited by finance
