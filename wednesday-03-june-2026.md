@@ -19,9 +19,10 @@ Date: 2026-06-03
   - [x] Create get token logic
   - [x] Adjust logic when send message to new vendor 3dolphins
   - [x] UAT
-  - [ ] Create Account Production
-  - [ ] Send host and credentials
-  - [ ] Make sure logic of campaign on outbond
+  - [x] Create Account Production
+  - [x] Send host and credentials
+  - [x] Make sure logic of campaign on outbond
+  - [ ] Release Production
 - [ ] NOTED ISSUE
   - [ ] Marketing Activities (campaign) issue on autosaved which makes redundant records
   - [ ] Makesure payment plan its only edited by finance
